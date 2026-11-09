@@ -3,8 +3,9 @@ Testing for machine learning and facial recognition
 sqlite db
 
 
-#Core Features 
+# Core Features 
 python facial scanning 
-electron desktop dashboard 
+electron desktop dashboard or Tauri
 audit logs attendance
+
 (will be defined in the future)
